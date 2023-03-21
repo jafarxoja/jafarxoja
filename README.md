@@ -2,4 +2,4 @@
 I am a web developer. </br>
 ###Languages and tools I work with:
 </br>
-<code><img src="[https://assets.stickpng.com/images/5847f5bdcef1014c0b5e489c.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O-TIXmKiueX71QqToRiS_wbpI0A6WuRDehadAR3su-AgR-B1ZU3Q3Q--TkcblHqpo0U&usqp=CAU)](https://assets.stickpng.com/images/5847f5aecef1014c0b5e489a.png)" width="25px"> </code>
+<code><img src=https://banner2.cleanpng.com/20180320/dde/kisspng-web-development-html-css3-canvas-element-web-desig-w3c-html5-logo-5ab0c840061922.801355261521535040025.jpg"" width="25px"> </code>
